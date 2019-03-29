@@ -1,0 +1,12 @@
+@ thugrock 
+
+-----------------------
+SORTING ALG:
+                SELECTION SORT
+               -----------------
+TIme Complexity:O(n2).
+Space Complexity:O(1)
+
+It Makes Atmost O(n) Swaps only.
+So it is useful where Cost operations are Costly.
+
